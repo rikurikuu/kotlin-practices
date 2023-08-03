@@ -17,4 +17,4 @@ To run the practice:
 ```
     gradle practiceName:run
 ```
-`gradle practiceName:run -q --console=plain` command may be useful as well, as it hides the Gradle output and makes the use of the program easier.
+`gradle practiceName:run -q --console=plain` may be useful as well, as it hides the Gradle output and makes the use of a program easier.
