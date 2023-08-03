@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc9f3055-470f-40fa-864b-43f9bddad11b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice_2/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_2/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice_3/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../practice_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practice_1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +45,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/senya/Desktop/Study/practice_3/build.gradle.kts"
+    "last_opened_file_path": "C:/Users/senya/Desktop/Study/kotlin-practices"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\senya\Desktop\Study\kotlin-practices\practice-3" />
       <recent name="C:\Users\senya\Desktop\Study\kotlin-practices\practice-2" />
       <recent name="C:\Users\senya\Desktop\Study\kotlin-practices\practice-1" />
     </key>
