@@ -1,5 +1,11 @@
 # My Kotlin Practices
 
+Details:
+- Java 17
+- Kotlin 1.7.21
+- Gradle 7.4.2
+  - Kotlin DSL
+
 ## How to build
 
 To build the whole project:
